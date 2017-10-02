@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>datatable_poc</members>
+        <members>datatable_pocApp</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>boot</members>
+		<members>datatablecss</members>
+		<members>fas</members>
+		<members>jqueryjs</members>
+		<members>datatable</members>
+		<members>bt1</members>
+		<members>bt2</members>
+		<name>StaticResource</name>
+    </types>
+       <version>38.0</version>
+</Package>
